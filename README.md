@@ -1,4 +1,4 @@
-# xAI Projects
+# iAI
 
 > ## AI Projects by Jody Ingram
 

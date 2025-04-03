@@ -8,4 +8,4 @@
 > 
 > cbaChatbot
 > 
-> shopBot
+> MODOS

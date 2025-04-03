@@ -5,5 +5,7 @@
 > Currently in development:
 
 > OmegaAI
+> 
 > cbaChatbot
+> 
 > shopBot

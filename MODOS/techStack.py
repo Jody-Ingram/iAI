@@ -13,6 +13,9 @@ from selenium.common.exceptions import NoSuchElementException, TimeoutException
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+# OpenAI API Key
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
 class CheckOutBot:
     def __init__(self, profile_path=None):
         options = webdriver.ChromeOptions()

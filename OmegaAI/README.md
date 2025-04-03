@@ -1,5 +1,5 @@
 # Omega AI
 
-> ### AI Chatbot based on GPT.
+> ### AI Chatbot built on multiple LLMs: GPT4 and Gemini 2.0
 >
 > In Development.

@@ -2,7 +2,7 @@
 
 > ### AI Projects by Jody Ingram
 
-> Currently in development:
+> ## Currently in development:
 
 > OmegaAI
 > 
